@@ -1,5 +1,6 @@
 public class ArraysTest {
     public static void main(String[] args) {
+//verkettet arrays
         int[] nu = null;
         int[] nichtnu = new int[3];
         try {
