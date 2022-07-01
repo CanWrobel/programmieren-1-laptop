@@ -1,2 +1,2 @@
 # Programmieren 1
-hhii
+ori was here, teaching git because git is awesome >:3
